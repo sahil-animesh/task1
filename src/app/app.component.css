@@ -1,0 +1,7 @@
+.contain
+{
+    width: inherit;
+    height: inherit;
+    display: flex;
+    flex-direction: row;
+}
